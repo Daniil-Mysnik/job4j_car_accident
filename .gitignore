@@ -31,6 +31,7 @@ build/*
 logs/*
 
 # sbt specific
+out/
 target/
 project/boot
 lib_managed/*
